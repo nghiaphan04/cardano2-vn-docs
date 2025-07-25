@@ -41,5 +41,8 @@
   ],
   "exclude": [
     "node_modules"
-  ]
+  ],
+    "scripts": {
+    "build": "prisma generate && next build"
+  }
 }
