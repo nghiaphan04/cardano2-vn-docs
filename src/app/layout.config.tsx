@@ -6,7 +6,7 @@ export const baseOptions: BaseLayoutProps = {
   nav: {
     title: (
       <>
-        <Image  src={images.logo} alt="logo" width={160} height={100} />
+        <Image  src={images.main_logo} alt="logo" width={40} height={40} />
       </>
     ),
   },

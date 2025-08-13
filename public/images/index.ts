@@ -1,6 +1,6 @@
 import logo from "./common/logo.png";
 import cardano from "./common/cardano.svg";
-
+import main_logo from "./common/logo_cautc.png"
 import landing01 from "./landings/01.png";
 import landing02 from "./landings/02.png";
 import landing03 from "./landings/03.png";
@@ -19,7 +19,7 @@ import dualtarget from "./projects/dualtarget.png";
 export const images = {
   logo,
   cardano,
-
+  main_logo,
   landing01,
   landing02,
   landing03,
